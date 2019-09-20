@@ -6,4 +6,4 @@
 
 ### build
 
-1. run ```./scripts/runtime.sh clean gen build copy run``
+1. run ```./scripts/runtime.sh clean gen build copy run```
