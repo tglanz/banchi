@@ -1,0 +1,5 @@
+game/build
+game/bin
+game/CrashReports
+
+game/external/bsf
